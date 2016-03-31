@@ -1,2 +1,2 @@
 general:
-  build_dir: python-test
+  build_dir: python-tests
